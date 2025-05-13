@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Oki Dwi Yulianto you can call me Oki.</h1>
-<h3 align="center">I am a tech enthusiast and also lifelong learner with a keen interest in algorithms, data structures, and system development.</h3>
+<h1 align="center">Hi 👋, I'm Oki - A Data Analyst From Indonesia</h1>
+<h3 align="center">I am a tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
 <p align="center"><img align="center" height="150" src="https://raw.githubusercontent.com/okidwiyulianto/website/refs/heads/main/okidwiyulianto.png"  /></p>
 
 - 🌱 I’m currently learning **JavaScript, Python, and Rust**
-
-- 👨‍💻 All of my projects are available at [https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)
-
-- 📝 I regularly write articles on [https://blog.okidwiyulianto.com](https://blog.okidwiyulianto.com)
-
+- 👨‍💻 All of my projects are available at **[https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)**
+- 📝 I regularly write articles on **[https://blog.okidwiyulianto.com](https://blog.okidwiyulianto.com)**
 - 💬 Ask me about **Microsoft Excel, Google Spreadsheet, Power BI, and Looker Studio**
-
 - 📫 How to reach me **admin@okidwiyulianto.com**
-
 - ⚡ Fun fact **I think I am hilarious and ridiculous**
+  
 <hr class="solid">
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -58,9 +54,10 @@
 </p>
 <hr class="solid">
 
+<div style="display: flex; justify-content: center;"">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+<img alt="github align="center" contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
 </picture>
-
+</div>
