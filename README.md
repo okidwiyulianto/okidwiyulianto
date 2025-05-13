@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oki Dwi Yulianto you can call me Oki.</h1>
 <h3 align="center">I am a tech enthusiast and also lifelong learner with a keen interest in algorithms, data structures, and system development.</h3>
 
-<p align="center"> <a href="https://okidwiyulianto.com"><img src="https://raw.githubusercontent.com/okidwiyulianto/website/refs/heads/main/okidwiyulianto.png" width="300" height="300" alt="okidwiyulianto" /></a> </p>
+<p align="center"> <a href="https://okidwiyulianto.com"><img src="https://raw.githubusercontent.com/okidwiyulianto/website/refs/heads/main/okidwiyulianto.png" width="250" height="250" alt="okidwiyulianto" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Python, and Rust**
 
