@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oki Dwi Yulianto you can call me Oki.</h1>
 <h3 align="center">I am a tech enthusiast and also lifelong learner with a keen interest in algorithms, data structures, and system development.</h3>
-
 <p align="center"><img align="center" height="150" src="https://raw.githubusercontent.com/okidwiyulianto/website/refs/heads/main/okidwiyulianto.png"  /></p>
-
 - 🌱 I’m currently learning **JavaScript, Python, and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)
@@ -14,9 +12,9 @@
 - 📫 How to reach me **admin@okidwiyulianto.com**
 
 - ⚡ Fun fact **I think I am hilarious and ridiculous**
-
+<hr class="solid">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>&nbsp;&nbsp;
@@ -47,9 +45,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>&nbsp;&nbsp;
@@ -60,3 +55,11 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+<hr class="solid">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+</picture>
+
