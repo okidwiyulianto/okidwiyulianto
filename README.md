@@ -1,7 +1,6 @@
 [![MastHead](https://raw.githubusercontent.com/okidwiyulianto/okidwiyulianto/refs/heads/main/banner-github.png)](https://okidwiyulianto.com)
 <h1 align="center">Hi 👋, I'm Oki - An Independent Developer From Indonesia</h1>
 <h3 align="center">I am a tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Analyst, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
-<p align="center"><img align="center" height="150" src="https://raw.githubusercontent.com/okidwiyulianto/website/refs/heads/main/okidwiyulianto.png"  /></p>
 
 - 🌱 I’m currently developing my skills in **Prompt Engineering, JavaScript, Python, and Rust**
 - 👨‍💻 All of my projects are available at **[https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)**
