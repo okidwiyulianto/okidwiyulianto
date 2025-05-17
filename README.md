@@ -1,6 +1,7 @@
 [![MastHead](https://raw.githubusercontent.com/okidwiyulianto/okidwiyulianto/refs/heads/main/banner-github.png)](https://okidwiyulianto.com)
+
 <h1 align="center">Hi 👋, I'm Oki - An Independent Developer From Indonesia</h1>
-<h3 align="left">I am a tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Analyst, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
+<h3 align="left">🧑‍💻 I am a tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Analyst, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
 
 - 🌱 I’m currently developing my skills in **Prompt Engineering, JavaScript, Python, and Rust**
 - 👨‍💻 All of my projects are available at **[https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)**
@@ -9,8 +10,19 @@
 - 📫 You can reach me via the following contact methods **admin@okidwiyulianto.com**
 - ⚡ Fun fact **I think I am hilarious and ridiculous**
   
-<hr class="solid">
-<h3 align="left">Languages:</h3>
+<hr>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+<img alt="github align="center" contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
+</picture><br><br><br>
+
+<p align="center">
+<a href="https://github.com/okidwiyulianto"><img title="okidwiyulianto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=compact&theme=dark"></a>
+</p><br>
+
+## 🗣️ Languages learned and practiced
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
@@ -20,8 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>&nbsp;&nbsp;
-</p>
-<h3 align="left">Tools:</h3>
+</p><br>
+
+## ⚙️ Tools learned and practiced
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;
@@ -34,12 +47,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/okidwiyulianto/okidwiyulianto/9d861eb602cfe753c6b98b114a896d2c00c4f1c6/assets/Roblox_Studio_logo_-_2022.svg" alt="roblox-studio" width="40" height="40"/>&nbsp;&nbsp;
 </p>
-<hr class="solid">
-<h3 align="left">Feed The Snake 🐍 👇</h3>
-<div style="display: flex; justify-content: center;"">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
-<img alt="github align="center" contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
