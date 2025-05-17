@@ -32,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/okidwiyulianto/okidwiyulianto/9d861eb602cfe753c6b98b114a896d2c00c4f1c6/assets/Roblox_Studio_logo_-_2022.svg" alt="roblox-studio" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 <hr class="solid">
 <h3 align="left">Feed The Snake 🐍 👇</h3>
