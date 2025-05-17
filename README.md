@@ -9,18 +9,12 @@
 - 💬 I possess expertise in **Microsoft Excel, Google Spreadsheet, Power BI, and Looker Studio**. Feel free to inquire
 - 📫 You can reach me via the following contact methods **admin@okidwiyulianto.com**
 - ⚡ Fun fact **I think I am hilarious and ridiculous**
-  
 <hr>
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
 <img alt="github align="center" contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
 </picture><br><br>
-
-<p align="center">
-<a href="https://github.com/okidwiyulianto"><img title="okidwiyulianto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=compact&theme=dark"></a>
-</p>
 
 ## 🗣️ Languages learned and practiced
 <p align="center">
@@ -46,4 +40,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/okidwiyulianto/okidwiyulianto/9d861eb602cfe753c6b98b114a896d2c00c4f1c6/assets/Roblox_Studio_logo_-_2022.svg" alt="roblox-studio" width="40" height="40"/>&nbsp;&nbsp;
+</p>
+
+## 📝 Summary
+<p align="center">
+<a href="https://github.com/okidwiyulianto"><img title="okidwiyulianto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=compact&theme=dark"></a>
 </p>
