@@ -20,7 +20,7 @@
 
 <p align="center">
 <a href="https://github.com/okidwiyulianto"><img title="okidwiyulianto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=compact&theme=dark"></a>
-</p><br>
+</p>
 
 ## 🗣️ Languages learned and practiced
 <p align="center">
