@@ -49,5 +49,5 @@
 ## 📝 Summary
 <p align="center">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=pie&langs_count=6&theme=radical)](https://github.com/okidwiyulianto/okidwiyulianto)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=pie&langs_count=6&theme=default"/>
 </p>
