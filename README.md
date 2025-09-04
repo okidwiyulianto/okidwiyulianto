@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing my skills in **Prompt Engineering, JavaScript, Python, and Rust**
 - 👨‍💻 All of my projects are available at **[https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)**
-- 📝 In my personal time, I write articles on my blog **[https://blog.okidwiyulianto.com](https://blog.okidwiyulianto.com)**
+- 📝 In my personal time, I write articles on my blog **[https://www.okidwiyulianto.com](https://okidwiyulianto.com)**
 - 💬 I possess expertise in **Microsoft Excel, Google Spreadsheet, Microsoft Power BI, and Google Looker Studio**. Feel free to inquire
 - 📫 You can reach me via the following contact methods **admin@okidwiyulianto.com**
 - ⚡ Fun fact **I think I am hilarious and ridiculous**
