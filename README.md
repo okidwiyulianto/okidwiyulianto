@@ -1,7 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/okidwiyulianto/okidwiyulianto/refs/heads/main/assets/banner.png)](https://www.okidwiyulianto.com)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Flex&weight=700&size=40&pause=500&color=000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+There!+%F0%9F%91%8B%2C+I'm+Oki+)](https://okidwiyulianto.com)
-<h3 align="left">🧑‍💻 I am an independent developer, tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Analyst, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
+<h3 align="left">Hi There! 👋, My name is Oki Dwi Yulianto, you can call me Oki. 🧑‍💻 I am an independent developer, tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Analyst, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
 
 - 🌱 I’m currently developing my skills in **Prompt Engineering, JavaScript, Python, and Rust**
 - 👨‍💻 All of my projects are available at **[https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)**
