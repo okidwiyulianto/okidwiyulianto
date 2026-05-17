@@ -7,11 +7,13 @@
 - 📫 You can reach me via the following contact methods **admin@okidwiyulianto.com**
 - ⚡ Fun fact **I think I am hilarious and ridiculous**
 <hr>
+<center>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
 <img alt="github align="center" contribution grid snake animation" src="https://raw.githubusercontent.com/sven-bo/sven-bo/output/github-contribution-grid-snake.svg">
-</picture><br><br>
+</picture>
+</center><br>
 
 ## 🗣️ Languages learned and practiced
 <p align="center">
@@ -46,5 +48,5 @@
 ## 📝 Summary
 <p align="center">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okidwiyulianto&layout=pie&langs_count=6&theme=graywhite"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=okidwiyulianto&theme=transparent&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
