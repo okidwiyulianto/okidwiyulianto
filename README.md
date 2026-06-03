@@ -1,6 +1,6 @@
 <h3 align="left">Hi There! 👋, My name is Oki Dwi Yulianto, you can call me Oki. 🧑‍💻 I am an independent developer, tech enthusiast and also lifelong learner with a keen interest in FullStack, Data Analyst, Data Scientist, AI/ML Engineer, Automation Engineer, and Software Developer</h3>
 
-- 🌱 I’m currently developing my skills in **Prompt Engineering, JavaScript, Python, and Rust**
+- 🌱 I’m currently developing my skills in **Vibe Coding, JavaScript, Python, and Rust**
 - 👨‍💻 All of my projects are available at **[https://github.com/okidwiyulianto?tab=repositories](https://github.com/okidwiyulianto?tab=repositories)**
 - 📝 In my personal time, I write articles on my blog **[https://www.okidwiyulianto.com](https://www.okidwiyulianto.com/search)**
 - 💬 I possess expertise in **Microsoft Excel, Google Spreadsheet, Microsoft Power BI, and Google Looker Studio**. Feel free to inquire
